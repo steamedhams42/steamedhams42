@@ -1,4 +1,5 @@
 
+![Alt Text](8411844.png "Ham Leg")
 
 
 
@@ -6,7 +7,6 @@
 <!--
 **steamedhams42/steamedhams42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi there 👋
-![Alt Text](8411844.png "Ham Leg")
 
 
 Here are some ideas to get you started:
